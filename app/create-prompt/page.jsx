@@ -3,7 +3,7 @@
 import Form from '@components/Form';
 import { useSession} from 'next-auth/react';
 import { useRouter } from "next/navigation";
-import {useState} from 'react';
+import {useEffect, useState} from 'react';
 
 const createprompt = () => {
   const [submitting,setSubmitting] = useState(false);
