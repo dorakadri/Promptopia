@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a my first [Next.js] project 
+its a simple crud application that will allow users to share ia prompts
+![image](https://github.com/dorakadri/Promptopia/assets/92749006/2dea7e54-1ae3-48b4-b139-41086318e47e)
 
 ## Getting Started
 
@@ -24,11 +26,7 @@ To learn more about Next.js, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- https://www.youtube.com/watch?v=wm5gMKuwSYk&t=10104s&ab_channel=JavaScriptMastery  - The tutorial i followed 
 
 ## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+https://promptopia-kadri-dorras-projects.vercel.app
